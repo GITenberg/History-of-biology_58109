@@ -1,5 +1,8 @@
 _repo: History-of-biology_58109
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 58109-h/images/cover.jpg
 creator:
   author:
     agent_name: Miall, L. C. (Louis Compton)
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '46707'
     url: http://www.gutenberg.org/2009/agents/46707
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/58109#History-of-biology
 gutenberg_issued: '2018-10-16'
 gutenberg_type: Text
 identifiers:
